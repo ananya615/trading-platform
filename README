@@ -1,0 +1,15 @@
+# Trading Platform – Bajaj Broking Assignment
+
+## Overview
+This project implements a simplified trading backend system with REST APIs.
+It supports instruments listing, order placement, trade execution, and portfolio tracking.
+
+## Tech Stack
+- Java 17
+- Spring Boot
+- REST APIs
+- In-memory storage (Map-based)
+
+## How to Run
+```bash
+mvn spring-boot:run
